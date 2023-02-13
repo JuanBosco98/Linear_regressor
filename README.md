@@ -1,2 +1,2 @@
 # Linear_regressor
-Logistictic regressor model for an fisical activity clasification
+This project consist of a simple EDA done with three diferent activities standing, walking and going up stairs. The movement of the body were pass down to a vibration shart on the three axis x, y and z. First the EDA is done with my own measures and later on with the measures obtain from my project colaborators. And finally a set of data cleaning, incremetation and transformation were done to model it into the regressor.
